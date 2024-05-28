@@ -1,0 +1,19 @@
+Read Documentation and get info
+
+createContext//(ShopContext)
+ShopContext.Provider
+
+what is spread operator? ex: ...prev
+
+
+grid-template-columns: 1fr 1fr 1fr 1fr;  - in Shopcategory.css
+
+Frontend ==> 2:58:48
+mobile view setup => 2:58:48 to 4:59:00
+completed ==> 4:59:00
+
+
+Clearing:::
+
+Context ==> Context provides a way to pass data through the component 
+tree without having to pass props down manually at every level
